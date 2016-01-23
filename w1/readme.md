@@ -1,4 +1,4 @@
-# M101JS MongoDB for Node.js Developers
+# M101-JS MongoDB for Node.js Developers
 
 # MongoDB Week 1
 
